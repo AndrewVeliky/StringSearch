@@ -1,0 +1,7 @@
+E:\Visual Project\StringSearch\searchWithoutRegister\searchWithoutRegister\bin\Debug\searchWithoutRegister.dll
+E:\Visual Project\StringSearch\searchWithoutRegister\searchWithoutRegister\bin\Debug\searchWithoutRegister.pdb
+E:\Visual Project\StringSearch\searchWithoutRegister\searchWithoutRegister\bin\Debug\in_at.dll
+E:\Visual Project\StringSearch\searchWithoutRegister\searchWithoutRegister\bin\Debug\in_at.pdb
+E:\Visual Project\StringSearch\searchWithoutRegister\searchWithoutRegister\obj\Debug\searchWithoutRegister.csprojResolveAssemblyReference.cache
+E:\Visual Project\StringSearch\searchWithoutRegister\searchWithoutRegister\obj\Debug\searchWithoutRegister.dll
+E:\Visual Project\StringSearch\searchWithoutRegister\searchWithoutRegister\obj\Debug\searchWithoutRegister.pdb

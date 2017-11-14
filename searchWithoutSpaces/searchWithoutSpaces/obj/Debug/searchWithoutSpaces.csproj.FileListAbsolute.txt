@@ -1,0 +1,14 @@
+c:\users\admin-pc\documents\visual studio 2017\Projects\searchWithoutSpaces\searchWithoutSpaces\bin\Debug\searchWithoutSpaces.dll
+c:\users\admin-pc\documents\visual studio 2017\Projects\searchWithoutSpaces\searchWithoutSpaces\bin\Debug\searchWithoutSpaces.pdb
+c:\users\admin-pc\documents\visual studio 2017\Projects\searchWithoutSpaces\searchWithoutSpaces\bin\Debug\in_at.dll
+c:\users\admin-pc\documents\visual studio 2017\Projects\searchWithoutSpaces\searchWithoutSpaces\bin\Debug\in_at.pdb
+c:\users\admin-pc\documents\visual studio 2017\Projects\searchWithoutSpaces\searchWithoutSpaces\obj\Debug\searchWithoutSpaces.csprojResolveAssemblyReference.cache
+c:\users\admin-pc\documents\visual studio 2017\Projects\searchWithoutSpaces\searchWithoutSpaces\obj\Debug\searchWithoutSpaces.dll
+c:\users\admin-pc\documents\visual studio 2017\Projects\searchWithoutSpaces\searchWithoutSpaces\obj\Debug\searchWithoutSpaces.pdb
+E:\Visual Project\StringSearch\searchWithoutSpaces\searchWithoutSpaces\bin\Debug\searchWithoutSpaces.dll
+E:\Visual Project\StringSearch\searchWithoutSpaces\searchWithoutSpaces\bin\Debug\searchWithoutSpaces.pdb
+E:\Visual Project\StringSearch\searchWithoutSpaces\searchWithoutSpaces\bin\Debug\in_at.dll
+E:\Visual Project\StringSearch\searchWithoutSpaces\searchWithoutSpaces\bin\Debug\in_at.pdb
+E:\Visual Project\StringSearch\searchWithoutSpaces\searchWithoutSpaces\obj\Debug\searchWithoutSpaces.csprojResolveAssemblyReference.cache
+E:\Visual Project\StringSearch\searchWithoutSpaces\searchWithoutSpaces\obj\Debug\searchWithoutSpaces.dll
+E:\Visual Project\StringSearch\searchWithoutSpaces\searchWithoutSpaces\obj\Debug\searchWithoutSpaces.pdb

@@ -1,0 +1,8 @@
+E:\Visual Project\StringSearch\StringSearch\StringSearch\bin\Debug\StringSearch.exe.config
+E:\Visual Project\StringSearch\StringSearch\StringSearch\bin\Debug\StringSearch.exe
+E:\Visual Project\StringSearch\StringSearch\StringSearch\bin\Debug\StringSearch.pdb
+E:\Visual Project\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.csprojResolveAssemblyReference.cache
+E:\Visual Project\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.exe
+E:\Visual Project\StringSearch\StringSearch\StringSearch\obj\Debug\StringSearch.pdb
+E:\Visual Project\StringSearch\StringSearch\StringSearch\bin\Debug\in_at.dll
+E:\Visual Project\StringSearch\StringSearch\StringSearch\bin\Debug\in_at.pdb

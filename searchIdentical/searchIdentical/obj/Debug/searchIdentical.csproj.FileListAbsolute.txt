@@ -1,0 +1,7 @@
+E:\Visual Project\StringSearch\searchIdentical\searchIdentical\bin\Debug\searchIdentical.dll
+E:\Visual Project\StringSearch\searchIdentical\searchIdentical\bin\Debug\searchIdentical.pdb
+E:\Visual Project\StringSearch\searchIdentical\searchIdentical\bin\Debug\in_at.dll
+E:\Visual Project\StringSearch\searchIdentical\searchIdentical\bin\Debug\in_at.pdb
+E:\Visual Project\StringSearch\searchIdentical\searchIdentical\obj\Debug\searchIdentical.dll
+E:\Visual Project\StringSearch\searchIdentical\searchIdentical\obj\Debug\searchIdentical.pdb
+E:\Visual Project\StringSearch\searchIdentical\searchIdentical\obj\Debug\searchIdentical.csprojResolveAssemblyReference.cache
